@@ -15,3 +15,8 @@ REPO_NAME = "имя репозитория"
 3) Ввести id группы, там где будет работать бот
 
 await bot.send_message("id группы", mess, parse_mode=ParseMode.MARKDOWN)
+
+4) Переименовать файл UtilsBot.py -> Utils.py
+
+5) Схема бота
+![](C:\Users\cloud\Downloads\bot_telg.jpg)
