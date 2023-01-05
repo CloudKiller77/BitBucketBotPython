@@ -1,0 +1,10 @@
+.utils.py
+.database.json
+.database_2.json
+.trash.py
+.bot_info.log
+.bitbucket.db
+
+# virtualenv
+.venv
+venv/
